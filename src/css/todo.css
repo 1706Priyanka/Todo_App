@@ -1,0 +1,41 @@
+body {
+  background-image: linear-gradient(to right, #56ab2f, #a8e063);
+}
+
+.header {
+  color: #51c11c;
+  font-family: Georgia, serif;
+  text-shadow: 5px 5px 5px powderblue;
+  text-align: center;
+}
+
+.btn {
+  border: none;
+  color: white;
+  padding: 10px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 1%;
+}
+
+.active {
+  background-color: #5b86e5;
+}
+
+.complete {
+  background-color: #a8e063;
+}
+
+.all {
+  background-color: blueviolet;
+}
+
+.text {
+  font-size: large;
+
+  font-family: Georgia, serif;
+}
